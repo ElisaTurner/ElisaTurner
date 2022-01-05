@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on finishing final projects for class.
-- 🌱 I’m currently learning PHP, Python, and MySQL.
+- 🌱 I’m currently learning Elixir, Phoenix and React!
 - 👯 I’m looking to collaborate on fun new projects!
 - 💬 Ask me about my favorite coding projects.
 - 📫 How to reach me: Elisa.S.Turner@gmail.com
